@@ -6,7 +6,7 @@ export const Header = () => {
 
   return (
    
-    <div className='bg-black p-4 '>
+    <div className='bg-black p-4  '>
         <div className='max-w-[1240px] p-[15px] items-center  mx-auto flex justify-between'>
            <div className='text-3xl font-bold text-[#58C493] '>REACT.</div>
            {

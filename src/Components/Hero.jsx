@@ -3,7 +3,7 @@ import Typed from 'react-typed';
 
 const Hero = () => {
   return (
-    <div className='text-white w-full mb-[140px] items-center flex flex-col justify-center '>
+    <div className='text-white w-full mb-[250px] items-center flex flex-col justify-center '>
         <p className='  mt-52 text-[#58C493] md:text-3xl sm:text-2xl '>Growing with data Analytics</p>
         <h1 className='p-2 text-white md:text-4xl sm:text-3xl font-bold '>Grow With Data.</h1>
         <h1 className='p-1 text-white md:text-4xl sm:text-3xl font-bold flex text-center'>Fast, flexible financing for 
